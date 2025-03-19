@@ -1,4 +1,4 @@
-# threatwar
+# Hybrid Cybersecurity Defense Framework Dashboard Features
 ****************************************
 * SIEM integration (Splunk, QRadar)
 ****************************************
